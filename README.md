@@ -1,2 +1,2 @@
 # crud
-crud
+A simple crud project.
